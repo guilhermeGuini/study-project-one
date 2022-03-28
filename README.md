@@ -22,13 +22,16 @@ Microservices:
 Phase 1:
 Build the services with the all rules
 
-Phase 2:
-Include security for all services
+Pahse 2:
+Configure CI in any tool
 
 Phase 3:
-Generate docker image for all services
+Include security for all services
 
 Phase 4:
+Generate docker image for all services
+
+Phase 5:
 Run all images on k8s with zero-down-time
 
 ## Tech stack
